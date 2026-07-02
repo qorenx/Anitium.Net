@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /user/
-Disallow: /community/new
-Disallow: /filter?
-Disallow: /*/panel
