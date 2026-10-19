@@ -1,7 +1,13 @@
 {
   "name": "Anitium.Net",
   "package": "anitium-hosting",
-  "version": "1.3",
-  "generatedAt": "2026-10-19T18:27:57.051Z",
-  "source": "hosting-package"
+  "version": "1.4",
+  "generatedAt": "2026-10-19T20:42:37.426Z",
+  "source": "hosting-package",
+  "license": {
+    "version": 1,
+    "algorithm": "ECDSA-P256-SHA256",
+    "payload": "eyJleHBpcmVzQXQiOiIyMDI3LTEwLTE5VDIwOjQwOjAwLjc0N1oiLCJpc3N1ZWRBdCI6IjIwMjYtMTAtMTlUMjA6NDE6MzguNjgxWiIsImxpY2Vuc2VJZCI6ImFuaXRpdW0tZ2xvYmFsIiwic3RhdHVzIjoiYWN0aXZlIiwidmVyc2lvbiI6MX0",
+    "signature": "xN3maX6Du42eclUAis5JcHwu3YQjgDAsoP8MA3bFpI1cCj_1gFbYTVAOWzeslpofzESROL0CTqqGQRgtvqY7og"
+  }
 }
