@@ -1,13 +1,13 @@
 {
   "name": "Anitium.Net",
   "package": "anitium-hosting",
-  "version": "1.7.1",
-  "generatedAt": "2026-10-21T03:43:31.011Z",
+  "version": "1.7.3",
+  "generatedAt": "2026-10-21T05:35:29.855Z",
   "source": "hosting-package",
   "license": {
     "version": 1,
     "algorithm": "ECDSA-P256-SHA256",
-    "payload": "eyJleHBpcmVzQXQiOiIyMDI3LTEwLTIwVDIwOjQwOjAwLjc0N1oiLCJpc3N1ZWRBdCI6IjIwMjYtMTAtMjFUMDM6NDI6MzEuNDgxWiIsImxpY2Vuc2VJZCI6ImFuaXRpdW0tZ2xvYmFsIiwic3RhdHVzIjoiYWN0aXZlIiwidmVyc2lvbiI6MX0",
-    "signature": "6tlmIim2seepBivoukyV-fCM_PKNJ1zW4EcGfdC92dS2R_xTTbVJCDb1bRP10a5tNWu3SbrOKHGqFYygEZK1Xw"
+    "payload": "eyJleHBpcmVzQXQiOiIyMDI3LTEwLTIwVDIwOjQwOjAwLjc0N1oiLCJpc3N1ZWRBdCI6IjIwMjYtMTAtMjFUMDU6MzQ6MzEuMDExWiIsImxpY2Vuc2VJZCI6ImFuaXRpdW0tZ2xvYmFsIiwicGFja2FnZVZlcnNpb24iOiIxLjcuMyIsInN0YXR1cyI6ImFjdGl2ZSIsInZlcnNpb24iOjF9",
+    "signature": "cTDN5Ecevdw65G1g4etTAOo7enc1MeR5ag8-uLN6UNak8qvZAvqvPjnxC_UFTpfN7XJDZjmEBRxSvgQF1n0L3w"
   }
 }
