@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "product": "anitium",
+  "packageVersion": "1.7.5",
+  "licenseId": "anitium-global",
+  "generationId": "a9ed6901cb3e4f83b5b8b758056568a0",
+  "capabilities": [
+    "admin",
+    "community",
+    "player",
+    "reader",
+    "watch"
+  ]
+}
