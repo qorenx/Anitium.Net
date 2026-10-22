@@ -1,13 +1,13 @@
 {
   "name": "Anitium.Net",
   "package": "anitium-hosting",
-  "version": "1.7.3",
-  "generatedAt": "2026-10-21T05:35:29.855Z",
+  "version": "1.7.5",
+  "generatedAt": "2026-10-21T18:59:59.895Z",
   "source": "hosting-package",
   "license": {
     "version": 1,
     "algorithm": "ECDSA-P256-SHA256",
-    "payload": "eyJleHBpcmVzQXQiOiIyMDI3LTEwLTIwVDIwOjQwOjAwLjc0N1oiLCJpc3N1ZWRBdCI6IjIwMjYtMTAtMjFUMDU6MzQ6MzEuMDExWiIsImxpY2Vuc2VJZCI6ImFuaXRpdW0tZ2xvYmFsIiwicGFja2FnZVZlcnNpb24iOiIxLjcuMyIsInN0YXR1cyI6ImFjdGl2ZSIsInZlcnNpb24iOjF9",
-    "signature": "cTDN5Ecevdw65G1g4etTAOo7enc1MeR5ag8-uLN6UNak8qvZAvqvPjnxC_UFTpfN7XJDZjmEBRxSvgQF1n0L3w"
+    "payload": "eyJhcnRpZmFjdFNldCI6eyJmaWxlcyI6W3sibmFtZSI6InJ1bnRpbWUtcG9saWN5Lmpzb24iLCJwYXRoIjoibGljZW5zZS1hcnRpZmFjdHMvMS43LjUvNzA5MTQ1ZTYyMTYyNDgyY2I0YWFhMGViMWViMTAyOGMvcnVudGltZS1wb2xpY3kuanNvbiIsInNoYTI1NiI6IjhiNjIyYjRlNzlmMzU2MTU1YmU1OGFkZTRjMjM5OGY4YWQwYTNlZjkzYzVlODgzNjk4MzFkZDBlYjg0ZjczYmEiLCJzaXplIjozNDF9LHsibmFtZSI6ImZlYXR1cmUtcG9saWN5Lmpzb24iLCJwYXRoIjoibGljZW5zZS1hcnRpZmFjdHMvMS43LjUvNzA5MTQ1ZTYyMTYyNDgyY2I0YWFhMGViMWViMTAyOGMvZmVhdHVyZS1wb2xpY3kuanNvbiIsInNoYTI1NiI6IjZmZWNiZjgwYzg5Y2M2YjJlMzU4MGIzN2MzOWY3Yjg1MjBiN2Y1OWJlNzZhNGRlYzllMjRkNmM0MzdlNzUxZjAiLCJzaXplIjoyNjB9XSwiZ2VuZXJhdGlvbklkIjoiNzA5MTQ1ZTYyMTYyNDgyY2I0YWFhMGViMWViMTAyOGMiLCJ2ZXJzaW9uIjoxfSwiZXhwaXJlc0F0IjoiMjAyNy0xMC0yMFQyMDo0MDowMC43NDdaIiwiaXNzdWVkQXQiOiIyMDI2LTEwLTIxVDE4OjU4OjU5LjI5MloiLCJsaWNlbnNlSWQiOiJhbml0aXVtLWdsb2JhbCIsInBhY2thZ2VWZXJzaW9uIjoiMS43LjUiLCJzdGF0dXMiOiJhY3RpdmUiLCJ2ZXJzaW9uIjoxfQ",
+    "signature": "AqYc9TzApAGawsk9aoYskw2GwkeTmVpll7uvEEdarwYK2Yc3FaW-wPy3uFa-kqeB_NeBxncY9qpUOp3V4dSCNA"
   }
 }
