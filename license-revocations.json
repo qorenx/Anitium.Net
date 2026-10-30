@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "algorithm": "ECDSA-P256-SHA256",
+  "payload": "eyJpc3N1ZWRBdCI6IjIwMjYtMTAtMzBUMTQ6MDU6MTEuMzMwWiIsImxpY2Vuc2VJZCI6ImFuaXRpdW0tZ2xvYmFsIiwicHJvZHVjdCI6ImFuaXRpdW0iLCJyZXZva2VkRG9tYWlucyI6W10sInNlcXVlbmNlIjoxNzkzMzY5MDc5OTgyLCJzdGF0dXMiOiJhY3RpdmUiLCJ2ZXJzaW9uIjoxfQ",
+  "signature": "Y-f8shpNHmIoEP2X7FHY3cYz9MkAKiVn4TZVdlijJMWbElhgt8WK5vt-TNRQwlkZA6DGH7iWmZOk6hdwzau_5A"
+}
