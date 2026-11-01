@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "anitium",
-  "packageVersion": "1.8.1",
+  "packageVersion": "1.8.4",
   "licenseId": "anitium-global",
-  "generationId": "214f71199b824552ac310cc0f3d0e364",
+  "generationId": "860c9d539c8340fb86a538f0f78cb992",
   "capabilities": [
     "admin",
     "community",
