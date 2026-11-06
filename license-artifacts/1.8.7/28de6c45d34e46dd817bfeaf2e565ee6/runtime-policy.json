@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "product": "anitium",
+  "packageVersion": "1.8.7",
+  "licenseId": "anitium-global",
+  "generationId": "28de6c45d34e46dd817bfeaf2e565ee6",
+  "licenseCheckIntervalHours": 0.5,
+  "offlineGraceDays": 0,
+  "startupLoaderRequired": true,
+  "requiredArtifacts": [
+    "runtime-policy.json",
+    "feature-policy.json"
+  ]
+}
