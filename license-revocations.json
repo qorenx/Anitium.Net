@@ -1,6 +1,6 @@
 {
   "version": 2,
   "algorithm": "ECDSA-P256-SHA256",
-  "payload": "eyJpc3N1ZWRBdCI6IjIwMjYtMTEtMTJUMTQ6Mzg6MjYuODg5WiIsImxpY2Vuc2VJZCI6ImFuaXRpdW0tZ2xvYmFsIiwicHJvZHVjdCI6ImFuaXRpdW0iLCJyZXZva2VkRG9tYWlucyI6W10sInNlcXVlbmNlIjoxNzk0NDk0Mjg3MjQ3LCJzdGF0dXMiOiJhY3RpdmUiLCJ2ZXJzaW9uIjoxfQ",
-  "signature": "qGNweOAncAFHATYc6miR_ms_LRw_xev3cRLL4Vs2jRHKyfisNhyiqbnMVpZo3gUSwpW4ewW4yB8wUQti24fQrQ"
+  "payload": "eyJpc3N1ZWRBdCI6IjIwMjYtMTEtMTNUMTM6NTY6MTYuMzA5WiIsImxpY2Vuc2VJZCI6ImFuaXRpdW0tZ2xvYmFsIiwicHJvZHVjdCI6ImFuaXRpdW0iLCJyZXZva2VkRG9tYWlucyI6W10sInNlcXVlbmNlIjoxNzk0NTc4MTYwODg0LCJzdGF0dXMiOiJhY3RpdmUiLCJ2ZXJzaW9uIjoxfQ",
+  "signature": "C_KqUwSxVbHmnX_ce-adLsGkHezy-lOPBmugKX8teQsRnYgMEsGpbTjw87RXcAhcLw5uDvHieIx5E8A5BoZSeQ"
 }
