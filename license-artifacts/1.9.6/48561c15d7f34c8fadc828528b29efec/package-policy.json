@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
   "product": "anitium",
-  "packageVersion": "1.9.5",
+  "packageVersion": "1.9.6",
   "licenseId": "anitium-global",
-  "generationId": "18ad274e6a434d7499c9261c10d2ae42",
+  "generationId": "48561c15d7f34c8fadc828528b29efec",
   "licenseCheckIntervalHours": 2,
   "fullVerificationIntervalHours": 12,
   "offlineGraceDays": 7,
